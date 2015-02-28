@@ -5,7 +5,7 @@
 import Recommender as Rec
 
 # Initialise the Recommendation System
-# Recommender function takes four argument:
+# Recommender function takes four arguments:
 # 1.Rmin -> minimum rating in a rating scale
 # 2.Rmax -> maximum rating in a rating scale
 # 3.User Dataset
