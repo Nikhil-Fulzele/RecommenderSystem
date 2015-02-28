@@ -14,7 +14,7 @@ Step 1: Import Recommender Class
 
 Step 2: Initialise the Recommendation System
         
-        Recommender function takes four argument:
+        Recommender function requires four arguments:
           
           1.Rmin -> minimum rating in a rating scale
           
@@ -26,7 +26,7 @@ Step 2: Initialise the Recommendation System
           
 Step 3a: For UserBased Recommendation System, UserRecommendation method is implemented
             
-            It takes 2 arguments:
+            It requires 2 arguments:
               
               1. UserID
               
